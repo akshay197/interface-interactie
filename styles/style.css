@@ -1,19 +1,85 @@
 /* CSS Document */
-*, *::after, *::before {
-  box-sizing:border-box;  
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
 }
 
-html, body {
-  height:100%;
-  margin:0;
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  height: 100vh;
+  /* width: 100vw;
+  overflow: hidden; */
 }
 
 button:not([disabled]) {
-  cursor:pointer;
+  cursor: pointer;
 }
 
-/* jouw CSS vanaf hier */
-
 h1 {
-  color:crimson;
+  color: white;
+}
+
+p {
+  color: white;
+}
+
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 4em;
+  width: 100vw;
+  background-color: #ffffff50;
+}
+
+ol {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  z-index: -1;
+  overflow-x: scroll;
+}
+
+ol li article {
+  width: 100vw;
+  height: 100vh;
+}
+
+ol li:nth-of-type(1) article {
+  background-image: linear-gradient(midnightblue, skyblue 80%, gold 80%);
+}
+
+ol li:nth-of-type(2) article {
+  background-image: linear-gradient(midnightblue, red 80%, green 80%);
+}
+
+ol li:nth-of-type(3) article {
+  background-image: linear-gradient(midnightblue, yellow 80%, orange 80%);
+}
+
+button {
+  position: fixed;
+  top: 50%;
+  width: 4em;
+  height: 4em;
+  transform: translateY(-50%);
+}
+
+button:first-of-type {
+  left: 0;
+}
+
+button:last-of-type {
+  right: 0;
 }
