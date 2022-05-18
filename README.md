@@ -26,7 +26,7 @@ Mijn startniveau is: blauw
   <summary>De eerste versie/schets van je ontwerp & je persoonlijke uitdaging</summary>
 
   ### De eerste versie/schets:
-  <img src="images/schets-3" width="375px" alt="eerste versie/schets">
+  <img src="images/schets-3.PNG" width="375px" alt="eerste versie/schets">
 
 
 
@@ -47,6 +47,9 @@ Mijn startniveau is: blauw
 
 <details>
   <summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
+
+  <img src="images/schets-2.PNG" width="375px" alt="eerste versie/schets">
+
 
   ### Bevinding 1:
   De achtergrond wou ik met een overloop hebben in de lucht zodat je de schemering kan zien.
@@ -105,6 +108,7 @@ Mijn startniveau is: blauw
   Ik heb een voorbeeld gevonden van iemand die retro buttons keurig heeft uitgewerkt en heb ik een beetje aangepast.
 
 
+  <img src="images/schets-1.PNG" width="375px" alt="eerste versie/schets">
 
   
 </details>
@@ -138,8 +142,8 @@ Mijn startniveau is: blauw
   <summary>Mijn eindresultaat & persoonlijke ontwikkeling</summary>
 
   ### Je uitkomst - karakteristiek screenshot(s):
-  <img src="images/screen-1.png" width="375px" alt="final ontwerp">
-    <img src="images/screen-2.png" width="375px" alt="top">
+  <img src="images/screen-1.PNG" width="375px" alt="final ontwerp">
+    <img src="images/screen-2.PNG" width="375px" alt="top">
 
 
 
