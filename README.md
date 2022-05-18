@@ -13,12 +13,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Jij
 
 ### Ontwerper:
-Sanne 't Hooft (vervangen door jouw naam)
+Akshay Kumar
 
 #### Je startniveau:
-Mijn startniveau is: hier je startniveau (kies uit zwart, rood óf blauw)
-
-
+Mijn startniveau is: blauw
 
 
 
@@ -28,15 +26,17 @@ Mijn startniveau is: hier je startniveau (kies uit zwart, rood óf blauw)
   <summary>De eerste versie/schets van je ontwerp & je persoonlijke uitdaging</summary>
 
   ### De eerste versie/schets:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="eerste versie/schets">
+  <img src="images/schets-3" width="375px" alt="eerste versie/schets">
+
 
 
   ### Je ambitie: 
   Aan deze technieken/punten wil ik werken:
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - Pagina navigering
+  - Animaties
+  - Progressive disclosure
+  - Grid en Flexbox
+  - Misschien klein beetje Javascript
  
 </details>
 
@@ -49,24 +49,38 @@ Mijn startniveau is: hier je startniveau (kies uit zwart, rood óf blauw)
   <summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
 
   ### Bevinding 1:
-  Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
-
+  De achtergrond wou ik met een overloop hebben in de lucht zodat je de schemering kan zien.
   #### oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
+  Ik heb het kunnen oplossen met een linear-gradient toe te passen in mijn CSS.
 
 
-
+  
   ### Bevinding 2:
-  Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
+  Het leek me leuk om een compleet website te hebben met een startscherm en dat je als user door kan naar de evolutie van de game.
 
   #### oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
+  Ik kreeg als feedback te horen dat ik me eerst kan focussen op de hoofdcontent en dan ga kijken naar wat er nog kan.
 
 
-
+   
   ### Bevinding 3:
-  ...
+  Ik moest me steeds gaan verdiepen in wat mijn game en karakter uniek maakt om dit weer in het uiteindelijke design terug te laten komen.
+  #### oplossing:
+  Tijdens het analyseren kwam ik erachter dat de robot-suit, de kanon in de arm en de spaceship onderscheidend is van alle andere Nintendo karakters. 
+    
+  
 
+  ### Bevinding 4:
+  Correcte afbeeldingen vinden was soms best wel lastig omdat bij de oude games niet altijd passende images te vinden waren.
+  #### oplossing:
+  Door goed door te blijven zoeken en de juiste zoektermen te hanteren heb ik mijn weg wel gevonden.
+
+  
+  
+   ### Bevinding 5:
+  Pagina navigering vond ik interessant dus probeerde het zelf te doen maar lukte niet helaas..
+  #### oplossing:
+  Milan Steman hielp mij met de correcte nummering met een smooth transition erin. Dit is een javascript declaratie en aangeroepen in een functie. 
 </details>
 
 
@@ -78,24 +92,21 @@ Mijn startniveau is: hier je startniveau (kies uit zwart, rood óf blauw)
   <summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
   
   ### Bevinding 1:
-  Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
-
+  Op elke pagina wil ik dat de logo dezelfde maat heeft ten op zichte van de img.
   #### oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
+  Ik heb het kunnen oplossen met width: calc(36.125em * 0.8);, zo de formaat gelijk. 
 
 
 
   ### Bevinding 2:
-  Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
+  Ik vond het lastig om retro te maken, ik vond het idee wel leuk en passend bij de retro versies van de game. 
 
   #### oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
+  Ik heb een voorbeeld gevonden van iemand die retro buttons keurig heeft uitgewerkt en heb ik een beetje aangepast.
 
 
 
-  ### Bevinding 3:
-  ...
-
+  
 </details>
 
 
@@ -105,25 +116,17 @@ Mijn startniveau is: hier je startniveau (kies uit zwart, rood óf blauw)
 <details>
   <summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
   
-  ### Bevinding 1:
-  Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
-
+   ### Bevinding 1:
+  Pagina navigering vond ik interessant dus probeerde het zelf te doen maar lukte niet helaas..
   #### oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
+  Milan Steman hielp mij met de correcte nummering met een smooth transition erin. Dit is een javascript declaratie en aangeroepen in een functie. 
 
-
-
+  
+  
   ### Bevinding 2:
-  Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
-
+  Door het toevoegen van meerdere articles op de pagina's, werkte de navigering even niet meer. 
   #### oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
-
-
-
-  ### Bevinding 3:
-  ...
-
+  Ik kreeg hulp bij het schrijven van efficientere code zodat dit opgelost wordt. Ook werd er voor gezorgd dat hetzelfde probleem niet aanhield wanneer er een article bij komt.
 </details>
 
 
@@ -135,19 +138,18 @@ Mijn startniveau is: hier je startniveau (kies uit zwart, rood óf blauw)
   <summary>Mijn eindresultaat & persoonlijke ontwikkeling</summary>
 
   ### Je uitkomst - karakteristiek screenshot(s):
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="final ontwerp">
+  <img src="images/screen-1.png" width="375px" alt="final ontwerp">
+    <img src="images/screen-2.png" width="375px" alt="top">
+
 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatje(s)
-
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
-
+  Calc. is een dign wat ik nieuw heb geleerd. Ik wist niet dat je ook background images in CSS kon aanroepen als je er verder nog niets mee doet bijvoorbeeld, maar klinkt wel logisch. De functie van page navigating vond ik lastig te begrijpen maar wel handig. 
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatje(s)
+  Wat niet gelukt is progressive disclosure met tekst als je klikt op de karakter/ship per pagina. Verder de active states. Dit allemaal omdat ik ziek was geworden tussendoor en in klein beetje in tijdgebrek kwam. 
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  Het linken van de images van de ship en karakter moest ook aan geknutseld worden want er moest efficientere code geschreven worden zodat de navigering van de pagina's goed bleef werken. 
 </details>
 
 
@@ -161,8 +163,7 @@ Mijn startniveau is: hier je startniveau (kies uit zwart, rood óf blauw)
 
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-1. bron 1
-2. bron 2
-3. ...
+1. CSS Animaties voor inspiratie: [Codepen animaties](https://codepen.io/nelledejones/pen/gOOPWrK)
+2. Retro buttons voor een aangenaam effect: [Retro buttons](https://codepen.io/Brandon-Stoyles/pen/RajYmd)
 
 </details>
